@@ -7,4 +7,4 @@ To install them, look to: https://www.reddit.com/r/DishonoredModding/comments/8z
 To make your own, look to: https://www.reddit.com/r/DishonoredModding/comments/8sdb0k/the_introduction/ and other tutorials on that subreddit.
 
 List of mods:
-* `powers/NoManaCost.bdiff` - Makes powers cost no mana (Blink/Bend Time/DarkVision/Windblast/Devouring Swarm/Posession)
+* `powers/NoManaCost.bdiff` - Makes powers cost no mana (Blink/Bend Time/DarkVision/Windblast/Devouring Swarm/Posession) - Modifies DishonoredGame.upk
